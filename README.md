@@ -15,4 +15,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saad-hesham&show_icons=true&locale=en&layout=compact" alt="saad-hesham" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saad-hesham&show_icons=true&locale=en" alt="saad-hesham" /></p>
