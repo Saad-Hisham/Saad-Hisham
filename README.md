@@ -1,6 +1,5 @@
 
-<div style="
-    display: flex;
+<div style="display: flex;
     justify-content: center;>
 <a href="#"><img src="https://i.ibb.co/pJLdhwh/wallpaperflare-com-wallpaper-3.jpg" alt="wallpaperflare-com-wallpaper-3" border="0"></a><br /><a target='_blank' href='https://fr.imgbb.com/'></a><br />
   </div>
