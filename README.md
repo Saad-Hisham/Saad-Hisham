@@ -1,5 +1,6 @@
 
 ![Banner-dark-mode](https://imgtr.ee/images/2023/09/16/1403619b400bb24247d01e4c67085e40.jpeg/90595158/224519176-25966d34-9593-4f48-8216-9d9ba80eb586.png#gh-dark-mode-only)
+<img src="https://imgtr.ee/images/2023/09/16/1403619b400bb24247d01e4c67085e40.jpeg" alt="1403619b400bb24247d01e4c67085e40.jpeg" border="0" />
 </a><br/><br /><h5 
                  align="center">Hey! 👋 I'm Saad Hisham, a Front End Development enthusiast  I'm determined to master both Front End and Back End Development 😈
   When I'm not coding, I enjoy gaming🎮, anime📺,reading novels📖, and coffee ☕️ My colleague studies law, but I'm happy to pursue my coding passion! </h5>
