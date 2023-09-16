@@ -1,4 +1,4 @@
-</a><br /><a target='_blank' href='https://fr.imgbb.com/'</a><br /><h5 align="left">Hey! 👋 I'm Saad Hisham, a Front End Development enthusiast  I'm determined to master both Front End and Back End Development 😈
+</a><br/><br /><h5 align="left">Hey! 👋 I'm Saad Hisham, a Front End Development enthusiast  I'm determined to master both Front End and Back End Development 😈
   When I'm not coding, I enjoy gaming🎮, anime📺,reading novels📖, and coffee ☕️ My colleague studies law, but I'm happy to pursue my coding passion! </h5>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saad-hesham&label=Profile%20views&color=0e75b6&style=flat" alt="saad-hesham" /> </p>
