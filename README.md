@@ -1,6 +1,6 @@
 
 
-<a href="#"><img src="https://i.ibb.co/pJLdhwh/wallpaperflare-com-wallpaper-3.jpg" alt="wallpaperflare-com-wallpaper-3" border="0" width="52rem"></a><br /><a target='_blank' href='https://fr.imgbb.com/'></a><br />
+<a href="#"><img src="https://i.ibb.co/pJLdhwh/wallpaperflare-com-wallpaper-3.jpg" alt="wallpaperflare-com-wallpaper-3" border="0" style="width: 52rem;"></a><br /><a target='_blank' href='https://fr.imgbb.com/'></a><br />
   
 </a><br/><br /><h5 
                  align="center">Hey! 👋 I'm Saad Hisham, a Front End Development enthusiast  I'm determined to master both Front End and Back End Development 😈
