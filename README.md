@@ -1,4 +1,3 @@
-<a href="#"><img src="https://i.ibb.co/kVTdVjt/Capture.jpg" alt="Capture" border="0"></a>
 
 <br/>
 <h5 align="center">
