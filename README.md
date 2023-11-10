@@ -1,5 +1,4 @@
 
-<a href="#"><img src="https://imgtr.ee/images/2023/09/16/68cd37fe6013af5af69fd27c9935ff10.jpeg" alt="68cd37fe6013af5af69fd27c9935ff10.jpeg" border="0" /></a>
 
 <br/>
 <h5 align="center">
