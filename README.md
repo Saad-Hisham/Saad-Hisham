@@ -7,7 +7,7 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saad-hesham&label=Profile%20views&color=0e75b6&style=flat" alt="saad-hesham" /> </p>
 
-- 🔭 I’m currently working on **Completing all of the Frontend Mentor challenges**
+- 🔭 I’m currently working on **Landing my first job**
 
 - 🌱 I’m currently learning **MERN STACK ,Problem solving with c++**
 
