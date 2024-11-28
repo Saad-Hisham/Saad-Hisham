@@ -13,7 +13,7 @@
   </p>
 
   - 🔭 I'm currently working on **Landing my first job**
-  - 🌱 I'm currently learning **MERN Stack, Web Development**
+  - 🌱 I'm currently learning **ASP.NET**
   - 📫 How to reach me: **saadhesham626@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
