@@ -9,9 +9,9 @@
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=saad-hesham&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </p>
-  - 🔭 I'm currently working on **Landing my first job**
-  - 🌱 I'm currently learning **ASP.NET**
-  - 📫 How to reach me: **saadhesham626@gmail.com**
+  - 🌱 I'm currently learning ASP.NET
+  <br/>
+  - 📫 How to reach me: saadhesham626@gmail.com
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
