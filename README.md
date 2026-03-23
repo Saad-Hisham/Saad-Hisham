@@ -1,12 +1,12 @@
-<p align="center">
-  <img src="Capture.jpg" width="100%" alt="3D Room Banner" />
+<p align="left">
+  <img src="Captrue.jpg" width="100%" alt="3D Room Banner" />
 </p>
 
-<h1 align="center">Hey 👋 I'm Saad Hisham</h1>
+<h1 align="left">Hey 👋 I'm Saad Hisham</h1>
 
-<h3 align="center">Front-End Developer | 3D Web Enthusiast | Future Full-Stack Developer 😈</h3>
+<h3 align="left">Front-End Developer | 3D Web Enthusiast | Future Full-Stack Developer 😈</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%7C+JavaScript+%7C+3D+Web;Learning+Python+and+Backend;Building+Interactive+Web+Experiences;Coffee+%2B+Code+%2B+Anime+%3D+Perfect+Day" />
 </p>
 
@@ -29,11 +29,11 @@
 
 ## 🛠️ Languages and Tools
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,redux,python,blender,git,github,vscode" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/GSAP-Animation-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
 </p>
 
@@ -41,9 +41,9 @@
 
 ## ⭐ Favorite Repositories
 
-<table align="center">
+<table align="left">
 <tr>
-<td align="center" width="50%">
+<td align="left" width="50%">
 
 ### 🏠 3D Room Portfolio
 
@@ -60,7 +60,7 @@
 
 </td>
 
-<td align="center" width="50%">
+<td align="left" width="50%">
 
 ### 🥷 Shinobi Clash Game
 
@@ -83,15 +83,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Saad-Hisham&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saad-Hisham&theme=tokyonight" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saad-Hisham&layout=compact&theme=tokyonight" />
 </p>
 
@@ -99,7 +99,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="mailto:saadhesham626@gmail.com">
     <img src="https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -110,6 +110,6 @@
 
 ---
 
-<p align="center">
+<p align="left">
   💚 Built with passion, coffee, and late-night coding
 </p>
