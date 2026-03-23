@@ -1,28 +1,127 @@
-
-<a href="#">
-
-</a>
-<h5 align="center">
-  Hey! 👋 I'm Saad Hisham, a Front End Development enthusiast. I'm determined to master both Front End and Back End Development 😈
-  When I'm not coding, I enjoy gaming 🎮, anime 📺, reading novels 📖, and coffee ☕️ My colleague studies law, but I'm happy to pursue my coding passion!
-</h5>
-<div>
-  <p align="left">
-  </p>
-  - 🌱 I'm currently learning Python
-  <br/>
-  - 📫 How to reach me: saadhesham626@gmail.com
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="Bootstrap_logo.svg.png" alt="Bootstrap" width="40" height="40" style="max-width: 100%; filter: invert(12%) hue-rotate(95deg);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  <img src="greensock-gsap-logo-75B48CEF01-seeklogo.com.png" alt="GSAP" width="40" height="40" style="max-width: 100%; object-fit: contain; width: 8rem;"/>
+<p align="center">
+  <img src="room.png" width="100%" alt="3D Room Banner" />
 </p>
 
-</div>
+<h1 align="center">Hey 👋 I'm Saad Hisham</h1>
+
+<h3 align="center">Front-End Developer | 3D Web Enthusiast | Future Full-Stack Developer 😈</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%7C+JavaScript+%7C+3D+Web;Learning+Python+and+Backend;Building+Interactive+Web+Experiences;Coffee+%2B+Code+%2B+Anime+%3D+Perfect+Day" />
+</p>
+
+---
+
+## 🚀 About Me
+
+* 💻 Passionate about **Front-End Development and 3D Web Experiences**
+* 🎯 Goal: Become a **Full Stack Developer**
+* 🌱 Currently learning **Python and Backend Development**
+* 🎮 Gaming lover
+* 📺 Anime fan
+* 📖 Novel reader
+* ☕ Coffee addict
+* 🔥 I love building interactive and modern web apps
+
+📫 **Reach me at:** [saadhesham626@gmail.com](mailto:saadhesham626@gmail.com)
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,redux,python,blender,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GSAP-Animation-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+</p>
+
+---
+
+## ⭐ Favorite Repositories
+
+### 🏠 3D Room Portfolio
+
+<p align="center">
+  <a href="https://github.com/Saad-Hisham/3d-room-portfolio">
+    <img src="room.png" width="600" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Saad-Hisham/3d-room-portfolio">
+    <img src="https://img.shields.io/github/stars/Saad-Hisham/3d-room-portfolio?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Saad-Hisham/3d-room-portfolio">
+    <img src="https://img.shields.io/github/forks/Saad-Hisham/3d-room-portfolio?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Saad-Hisham/3d-room-portfolio">
+    <img src="https://img.shields.io/github/languages/top/Saad-Hisham/3d-room-portfolio?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  Interactive 3D portfolio built using React, Blender and modern web technologies.
+</p>
+
+---
+
+### 🥷 Shinobi Clash Game
+
+<p align="center">
+  <a href="https://github.com/Saad-Hisham/Shinobi-Clash">
+    <img src="game.png" width="600" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Saad-Hisham/Shinobi-Clash">
+    <img src="https://img.shields.io/github/stars/Saad-Hisham/Shinobi-Clash?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Saad-Hisham/Shinobi-Clash">
+    <img src="https://img.shields.io/github/forks/Saad-Hisham/Shinobi-Clash?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Saad-Hisham/Shinobi-Clash">
+    <img src="https://img.shields.io/github/languages/top/Saad-Hisham/Shinobi-Clash?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  Anime-style browser fighting game built with JavaScript and modern UI.
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saad-Hisham&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saad-Hisham&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saad-Hisham&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:saadhesham626@gmail.com">
+    <img src="https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Saad-Hisham">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💚 Built with passion, coffee, and late-night coding
+</p>
