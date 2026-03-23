@@ -41,55 +41,43 @@
 
 ## ⭐ Favorite Repositories
 
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
 ### 🏠 3D Room Portfolio
 
-<p align="center">
-  <a href="https://github.com/Saad-Hisham/3d-room-portfolio">
-    <img src="room.png" width="600" />
-  </a>
-</p>
+<a href="https://github.com/Saad-Hisham/3d-room-portfolio">
+  <img src="room.png" width="400" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/Saad-Hisham/3d-room-portfolio">
-    <img src="https://img.shields.io/github/stars/Saad-Hisham/3d-room-portfolio?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Saad-Hisham/3d-room-portfolio">
-    <img src="https://img.shields.io/github/forks/Saad-Hisham/3d-room-portfolio?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Saad-Hisham/3d-room-portfolio">
-    <img src="https://img.shields.io/github/languages/top/Saad-Hisham/3d-room-portfolio?style=for-the-badge" />
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  Interactive 3D portfolio built using React, Blender and modern web technologies.
-</p>
+<img src="https://img.shields.io/github/stars/Saad-Hisham/3d-room-portfolio?style=for-the-badge" />
+<img src="https://img.shields.io/github/forks/Saad-Hisham/3d-room-portfolio?style=for-the-badge" />
 
----
+<p>Interactive 3D portfolio built using React and Blender.</p>
+
+</td>
+
+<td align="center" width="50%">
 
 ### 🥷 Shinobi Clash Game
 
-<p align="center">
-  <a href="https://github.com/Saad-Hisham/Shinobi-Clash">
-    <img src="game.png" width="600" />
-  </a>
-</p>
+<a href="https://github.com/Saad-Hisham/Shinobi-Clash">
+  <img src="game.png" width="400" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/Saad-Hisham/Shinobi-Clash">
-    <img src="https://img.shields.io/github/stars/Saad-Hisham/Shinobi-Clash?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Saad-Hisham/Shinobi-Clash">
-    <img src="https://img.shields.io/github/forks/Saad-Hisham/Shinobi-Clash?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Saad-Hisham/Shinobi-Clash">
-    <img src="https://img.shields.io/github/languages/top/Saad-Hisham/Shinobi-Clash?style=for-the-badge" />
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  Anime-style browser fighting game built with JavaScript and modern UI.
-</p>
+<img src="https://img.shields.io/github/stars/Saad-Hisham/Shinobi-Clash?style=for-the-badge" />
+<img src="https://img.shields.io/github/forks/Saad-Hisham/Shinobi-Clash?style=for-the-badge" />
+
+<p>Anime-style browser fighting game built with JavaScript.</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
