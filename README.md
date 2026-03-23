@@ -1,3 +1,4 @@
+
 <p align="left">
   <img src="Capture.jpg" width="100%" alt="3D Room Banner" />
 </p>
@@ -47,7 +48,7 @@
 
 ### 🏠 3D Room Portfolio
 
-<a href="https://github.com/Saad-Hisham/3d-room-portfolio">
+<a href="https://3d-room-portfolio-rho.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="room.png" width="400" />
 </a>
 
@@ -64,7 +65,7 @@
 
 ### 🥷 Shinobi Clash Game
 
-<a href="https://github.com/Saad-Hisham/Shinobi-Clash">
+<a href="http://shinobi-clash.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="game.png" width="400" />
 </a>
 
