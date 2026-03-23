@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="capture.jpg" width="100%" alt="3D Room Banner" />
+  <img src="Capture.jpg" width="100%" alt="3D Room Banner" />
 </p>
 
 <h1 align="center">Hey 👋 I'm Saad Hisham</h1>
